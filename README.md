@@ -25,6 +25,8 @@ As an example of a proxy front face the following was created using [MTGCardBuil
 was added after. It would be pretty easy for people to come up with their own designs using existing tools.
 
 ![nfc_counter_proxy](https://github.com/groundst8/tcg-counter-sleeve/assets/53413353/74cd7227-f47b-4b54-9fc8-70c2268b1180)
+![nfc_counter_oil_proxy](https://github.com/groundst8/tcg-counter-sleeve/assets/53413353/5d550fbc-b291-4d54-9564-b1ea3dd70b28)
+
 
 **Card Cutouts**
 | Company | Can do cutout? | Notes |
