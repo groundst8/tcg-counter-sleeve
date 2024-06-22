@@ -7,6 +7,11 @@
 Various companies offer cardstock credit card sleeves. [Company Folders](https://www.companyfolders.com/) will do a die cut front face cutout for the display. 
 A couple concerns with this approach are minimum quantity orders and bending of the sleeve faces that makes the display hard to see.
 
+| Company | Can do cutout? | Notes |
+|----------|----------|----------|
+| Company Folders | Yes | Very flexible with what they can do |
+| Envelopes.com | No | Can't do cutouts on credit card sleeves, too small |
+
 ### Proxy card face in poly card sleeve
 
 Another idea is to create a proxy card front face using one the many proxy services like [Printing Proxies](https://www.printingproxies.com) and then inserting 
