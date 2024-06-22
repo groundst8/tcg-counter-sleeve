@@ -8,7 +8,7 @@ Various companies offer cardstock credit card sleeves. [Company Folders](https:/
 A couple concerns with this approach are minimum quantity orders and bending of the sleeve faces that makes the display hard to see.
 
 | Company | Can do cutout? | Notes |
-|----------|----------|----------|
+|---------|----------------|-------|
 | Company Folders | Yes | Very flexible with what they can do |
 | Envelopes.com | No | Can't do cutouts on credit card sleeves, too small |
 
@@ -25,3 +25,9 @@ As an example of a proxy front face the following was created using [MTGCardBuil
 was added after. It would be pretty easy for people to come up with their own designs using existing tools.
 
 ![nfc_counter_proxy](https://github.com/groundst8/tcg-counter-sleeve/assets/53413353/74cd7227-f47b-4b54-9fc8-70c2268b1180)
+
+
+| Company | Can do cutout? | Notes |
+|---------|----------------|-------|
+| Printing Proxies | No | Not able to do a cutout |
+| [MPC](https://www.makeplayingcards.com) | ? | Waiting to hear back |
