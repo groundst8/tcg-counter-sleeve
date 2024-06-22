@@ -26,8 +26,16 @@ was added after. It would be pretty easy for people to come up with their own de
 
 ![nfc_counter_proxy](https://github.com/groundst8/tcg-counter-sleeve/assets/53413353/74cd7227-f47b-4b54-9fc8-70c2268b1180)
 
-
+**Card Cutouts**
 | Company | Can do cutout? | Notes |
 |---------|----------------|-------|
 | Printing Proxies | No | Not able to do a cutout |
 | [MPC](https://www.makeplayingcards.com) | ? | Waiting to hear back |
+
+**ESD Safe Sleeves**
+| Company | ESD Safe poly sleeve? | Notes |
+|---------|-----------------------|-------|
+| Ultimate Guard | ? | Waiting to hear back |
+| Dragon Shield | ? | Waiting to hear back |
+| ULINE | No | clear antistatic poly bags not available in custom sizes |
+
