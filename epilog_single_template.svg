@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24in"
+   height="18in"
+   viewBox="0 0 609.60001 457.2"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-beta (62f545ba, 2024-04-22)"
+   sodipodi:docname="epilog_single_template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.9"
+     inkscape:cx="222.22222"
+     inkscape:cy="179.44444"
+     inkscape:window-width="1408"
+     inkscape:window-height="914"
+     inkscape:window-x="342"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.98;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       id="rect1"
+       width="63"
+       height="88"
+       x="0.099154681"
+       y="0.089123785"
+       rx="3" />
+    <rect
+       style="display:inline;opacity:0.98;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       id="rect2"
+       width="25.6"
+       height="33.900002"
+       x="18.799143"
+       y="27.139118"
+       rx="5"
+       inkscape:label="rect2" />
+    <rect
+       style="opacity:0.98;fill:#ffffff;stroke:#ff0000;stroke-width:0.0254;fill-opacity:0;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3"
+       width="15.6"
+       height="23.9"
+       x="23.799143"
+       y="32.13913"
+       rx="2"
+       inkscape:export-filename="rect3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>
