@@ -80,3 +80,21 @@ Polypropylene: Several minutes to hours
 # Prototyping
 
 In either case, cardstock sleeve, or proxy it's not economical to pay to create a die punch until exact dimensions have been idenfied. It's hard to get cutouts very accurate with an exact knife and test cut templates. I looked into cutting machines like the Silhouette Cameo which uses a blade and laser cutters for prototyping cutouts. My local library has a makerspace with an Epilog Legend Helix 50 Watt Laser Cutter that is available for free use. It has a 24" x 18" bed so it would theoretically be possible to cut batches of 45 cards at a time which could enable low volume production without investing in creating a die punch.
+
+**Epilog Legen Helix 50 Watt Settings for cutting Magic The Gathering card**
+
+- Resolution: 600?
+- Job Type: Vector
+- Options: 
+  - Auto Focus
+  - Send to laser
+  - Send to manager
+- Speed: 70%?
+- Power: 20%?
+- Frequency: 500Hz?
+- Horizontal Size: 24"
+- Vertical Size: 18"
+
+
+
+
