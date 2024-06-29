@@ -32,7 +32,7 @@ was added after. It would be pretty easy for people to come up with their own de
 | Company | Can do cutout? | Notes |
 |---------|----------------|-------|
 | Printing Proxies | No | Not able to do a cutout |
-| [MPC](https://www.makeplayingcards.com) | ? | Waiting to hear back |
+| [MPC](https://www.makeplayingcards.com) | Yes | $600 to create punch molding|
 
 **ESD Safe Sleeves**
 | Company | ESD Safe poly sleeve? | Notes |
@@ -40,4 +40,5 @@ was added after. It would be pretty easy for people to come up with their own de
 | Ultimate Guard | ? | Waiting to hear back |
 | Dragon Shield | ? | Waiting to hear back |
 | ULINE | No | clear antistatic poly bags not available in custom sizes |
+| DESCO | ? | Waiting to hear back |
 
