@@ -42,3 +42,37 @@ was added after. It would be pretty easy for people to come up with their own de
 | ULINE | No | clear antistatic poly bags not available in custom sizes |
 | DESCO | ? | Waiting to hear back |
 
+## Material ESD Properties
+
+**Surface Resistivity:**
+
+Cardstock: 10^10 to 10^12 ohms/square
+Polypropylene: 10^16 to 10^18 ohms/square
+
+Higher resistivity leads to greater static buildup potential.
+
+**Triboelectric Series Ranking (approximate):**
+
+Cardstock: +10 to +30
+Polypropylene: -20 to -40
+
+The further apart materials are on this scale, the more likely they are to generate static when rubbed together.
+
+**Typical Static Voltage Generated (when rubbed against cotton):**
+
+Cardstock: 1,000 to 3,000 volts
+Polypropylene: 5,000 to 20,000 volts
+
+
+**Moisture Regain (at 65% relative humidity):**
+
+Cardstock: 6-8%
+Polypropylene: <0.1%
+
+Higher moisture regain reduces static buildup.
+
+
+**Charge Decay Rate (time to dissipate 50% of charge):**
+
+Cardstock: 10-30 seconds
+Polypropylene: Several minutes to hours
