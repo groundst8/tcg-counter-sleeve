@@ -32,7 +32,7 @@ was added after. It would be pretty easy for people to come up with their own de
 | Company | Can do cutout? | Notes |
 |---------|----------------|-------|
 | Printing Proxies | No | Not able to do a cutout |
-| [MPC](https://www.makeplayingcards.com) | ? | Waiting to hear back |
+| [MPC](https://www.makeplayingcards.com) | Yes | $600 to create punch molding|
 
 **ESD Safe Sleeves**
 | Company | ESD Safe poly sleeve? | Notes |
@@ -40,4 +40,43 @@ was added after. It would be pretty easy for people to come up with their own de
 | Ultimate Guard | ? | Waiting to hear back |
 | Dragon Shield | ? | Waiting to hear back |
 | ULINE | No | clear antistatic poly bags not available in custom sizes |
+| DESCO | ? | Waiting to hear back |
 
+## Material ESD Properties
+
+**Surface Resistivity:**
+
+Cardstock: 10^10 to 10^12 ohms/square
+Polypropylene: 10^16 to 10^18 ohms/square
+
+Higher resistivity leads to greater static buildup potential.
+
+**Triboelectric Series Ranking (approximate):**
+
+Cardstock: +10 to +30
+Polypropylene: -20 to -40
+
+The further apart materials are on this scale, the more likely they are to generate static when rubbed together.
+
+**Typical Static Voltage Generated (when rubbed against cotton):**
+
+Cardstock: 1,000 to 3,000 volts
+Polypropylene: 5,000 to 20,000 volts
+
+
+**Moisture Regain (at 65% relative humidity):**
+
+Cardstock: 6-8%
+Polypropylene: <0.1%
+
+Higher moisture regain reduces static buildup.
+
+
+**Charge Decay Rate (time to dissipate 50% of charge):**
+
+Cardstock: 10-30 seconds
+Polypropylene: Several minutes to hours
+
+# Prototyping
+
+In either case, cardstock sleeve, or proxy it's not economical to pay to create a die punch until exact dimensions have been idenfied. It's hard to get cutouts very accurate with an exact knife and test cut templates. I looked into cutting machines like the Silhouette Cameo which uses a blade and laser cutters for prototyping cutouts. My local library has a makerspace with an Epilog Legend Helix 50 Watt Laser Cutter that is available for free use. It has a 24" x 18" bed so it would theoretically be possible to cut batches of 45 cards at a time which could enable low volume production without investing in creating a die punch.
