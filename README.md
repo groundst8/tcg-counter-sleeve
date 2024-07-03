@@ -37,9 +37,9 @@ was added after. It would be pretty easy for people to come up with their own de
 | Company | ESD Safe poly sleeve? | Notes |
 |---------|-----------------------|-------|
 | Ultimate Guard | ? | Waiting to hear back |
-| Dragon Shield | ? | Waiting to hear back |
+| Dragon Shield | No | No anti-static products available |
 | ULINE | No | clear antistatic poly bags not available in custom sizes |
-| DESCO | ? | Waiting to hear back |
+| DESCO | Yes | Minimum order quantity and weld seals are an issue |
 
 ## Material ESD Properties
 
