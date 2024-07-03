@@ -94,6 +94,11 @@ In either case, cardstock sleeve, or proxy it's not economical to pay to create 
 - Horizontal Size: 24"
 - Vertical Size: 18"
 
+## Laser cutter testing
+Had some alignment issues where the cutout was shifted a few mm when referenced against the ruler in the laser bed. Ended up making a jig by cutting out the card size so that inner cutout would be properly referenced to the card outline. There was some space that could be reduced to account for the laser beam size and give the card a more secure fit in the jig in the future.
+
+![1W9A0929](https://github.com/groundst8/tcg-counter-sleeve/assets/53413353/03f8c76f-6def-408f-9742-571ca7185acd)
+
 
 
 
