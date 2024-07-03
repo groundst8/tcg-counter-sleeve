@@ -88,8 +88,8 @@ In either case, cardstock sleeve, or proxy it's not economical to pay to create 
   - Auto Focus
   - Send to laser
   - Send to manager
-- Speed: 70%?
-- Power: 20%?
+- Speed: 30%
+- Power: 30%
 - Frequency: 500Hz?
 - Horizontal Size: 24"
 - Vertical Size: 18"
