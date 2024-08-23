@@ -41,6 +41,11 @@ was added after. It would be pretty easy for people to come up with their own de
 | ULINE | No | clear antistatic poly bags not available in custom sizes |
 | DESCO | Yes | Minimum order quantity and weld seals are an issue |
 
+I did some testing of Ultra Pro sleeves matte and gloss sleeves. I found the backs of the black matte sleeves were static dissipative, but the fronts were not. There seemed to be some variance across the colors
+tested so I'm still looking into if they are reliably dissipative but it seems promising.
+
+![PXL_20240823_194850250 PORTRAIT ORIGINAL~2](https://github.com/user-attachments/assets/1ab6571e-af4b-41ba-abef-fbf49dd03c76)
+
 ## Material ESD Properties
 
 **Surface Resistivity:**
