@@ -41,6 +41,11 @@ was added after. It would be pretty easy for people to come up with their own de
 | ULINE | No | clear antistatic poly bags not available in custom sizes |
 | DESCO | Yes | Minimum order quantity and weld seals are an issue |
 
+I did some testing of Ultra Pro sleeves matte and gloss sleeves. I found the backs of the black matte sleeves were static dissipative, but the fronts were not. There seemed to be some variance across the colors
+tested so I'm still looking into if they are reliably dissipative but it seems promising.
+
+![PXL_20240823_194850250 PORTRAIT ORIGINAL~2](https://github.com/user-attachments/assets/1ab6571e-af4b-41ba-abef-fbf49dd03c76)
+
 ## Material ESD Properties
 
 **Surface Resistivity:**
@@ -97,7 +102,7 @@ In either case, cardstock sleeve, or proxy it's not economical to pay to create 
 ## Laser cutter testing
 Had some alignment issues where the cutout was shifted a few mm when referenced against the ruler in the laser bed. Ended up making a jig by cutting out the card size so that inner cutout would be properly referenced to the card outline. There was some space that could be reduced to account for the laser beam size and give the card a more secure fit in the jig in the future.
 
-![1W9A0929](https://github.com/groundst8/tcg-counter-sleeve/assets/53413353/03f8c76f-6def-408f-9742-571ca7185acd)
+![1W9A0948](https://github.com/user-attachments/assets/a5e1ce41-4e17-40e7-94d4-a46e9bc7bc1e)
 
 
 
